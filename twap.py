@@ -4,7 +4,7 @@ from datetime import datetime, timedelta, time
 import time
 import schedule
 
-#apì keys
+#Binance apì keys
 api_key= ''
 api_secret= ''
 client = Client(api_key, api_secret)
