@@ -1,5 +1,5 @@
 # Copernico
-Trading Tools for institutions: TWAP buys and sells.
+TWAP buys and sells.
 
 Buy or sell an asset using a Time Weight Average Price strategy.
 
